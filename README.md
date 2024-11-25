@@ -44,7 +44,13 @@
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки  обучения. Указать от чего зависит необходимое количество эпох обучения.
 
-![task 2](https://github.com/kurlyushonok/DA-in-GameDev-lab1/blob/main/images/5440555152995114601.jpg)
+![task 2](https://github.com/kurlyushonok/DA-in-GameDev-lab4/blob/main/graphs/AND.png)
+
+![task 2](https://github.com/kurlyushonok/DA-in-GameDev-lab4/blob/main/graphs/NAND.png)
+
+![task 2](https://github.com/kurlyushonok/DA-in-GameDev-lab4/blob/main/graphs/OR.png)
+
+![task 2](https://github.com/kurlyushonok/DA-in-GameDev-lab4/blob/main/graphs/XOR.png)
 
 
 ## Задание 3
